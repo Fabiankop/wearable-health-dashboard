@@ -1,0 +1,9 @@
+ACTIVIDAD 6 - TRANSFERENCIA
+Programacion para Ciencia de Datos II | 2026-1
+Autores: Alvaro Enrique Ospino Mantilla & Daylher Fabian Rodriguez Pena
+
+LINK 1 - REPOSITORIO GITHUB:
+https://github.com/Fabiankop/wearable-health-dashboard
+
+LINK 2 - DASHBOARD EN BINDER (Voila):
+https://mybinder.org/v2/gh/Fabiankop/wearable-health-dashboard/HEAD?urlpath=voila%2Frender%2Fdashboard.ipynb

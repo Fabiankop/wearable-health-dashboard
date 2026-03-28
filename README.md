@@ -3,6 +3,6 @@
 Actividad 6 - Transferencia | Programacion para Ciencia de Datos II | 2026-1
 Fundacion Universitaria Compensar
 
-Autores: Alvaro Enrique Ospino Mantilla & Daylher Fabian Rodriguez Pena
+Autores: Daylher Fabian Rodriguez Pena
 
 Dashboard interactivo con Plotly + ipywidgets + Voila. Ver dashboard.ipynb para el codigo completo.
